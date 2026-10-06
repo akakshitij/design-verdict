@@ -40,7 +40,7 @@ See [`examples/sample-verdict.md`](examples/sample-verdict.md) for a full report
 Copy the folder into your skills directory:
 
 ```bash
-git clone https://github.com/<your-account>/design-verdict ~/.claude/skills/design-verdict
+git clone https://github.com/akakshitij/design-verdict ~/.claude/skills/design-verdict
 ```
 
 Start a new Claude Code session. It loads when you ask for a verdict.
